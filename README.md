@@ -4,19 +4,6 @@ This project provides an automated solution using Python/Selenium and GitHub Act
 
 The downloaded configurations are automatically updated in this repository and are pushed to the corresponding Telegram channel for immediate access.
 
----
-
-## ⚡️ Quick Access & Download
-
-Find the freshest WireGuard config package, neatly sorted into country-specific folders.
-
-### 📢 Telegram Notification Channel
-
-The latest file bundle is automatically uploaded to the Telegram channel. Join for immediate access and update notifications:
-
-[**ProtonConfigBot - VPN Configs**](https://t.me/ProtonConfigBot)
-
----
 
 ## 💻 Usage Guide (Windows Focus)
 
@@ -44,7 +31,3 @@ The files are available both on the GitHub repository and through the Telegram c
 3.  **Client Use:**
     * Ensure the Wiresock client is installed and running.
     * Import your desired `.conf` files from the country folders into Wiresock and connect.
-
----
-
-> **Note:** Please replace `[YOUR_USERNAME]` and `[YOUR_REPOSITORY_NAME]` with your actual GitHub username and repository name in the direct download link above.
